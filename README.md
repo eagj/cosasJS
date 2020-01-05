@@ -1,2 +1,2 @@
 # cosasJS
-purbeas de cosas en JS
+pruebas de cosas en JS
